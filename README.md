@@ -55,7 +55,7 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
-BlOG WEBSITE : https://www.blogisphere.com
+BlOG WEBSITE : https://blogisphere.com
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
