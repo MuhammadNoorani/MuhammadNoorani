@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.simpleimageresizer.com/_uploads/photos/037f91c4/Margarita_Perez_github_2_1_639x250.png" alt="cover" />
+<img width="100%" height = "400px" src="https://www.simpleimageresizer.com/_uploads/photos/f8984d9e/Margarita_Perez_github_2_2_1000x400.png" alt="cover" />
 </div>
 <br /> 
 <br /> 
