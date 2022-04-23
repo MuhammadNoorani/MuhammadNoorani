@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Muhammad00786.https://github.com/Muhammad00786)
 
 </p><div align="center">
-<div size='20px'> Hi ! Everyone I am Muhammad A. Noorani. Growing up I am a curious Student who loves to learn new things in tech, that will allow me to network with amazing proffessionals and draft my journey.
+<div size='20px'> Hi ! Everyone I am Muhammad A. Noorani. Growing up I am a curious Student who loves to learn new things in tech, that will allow me to network with amazing professionals and draft my journey.
 
 
 
