@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://www.simpleimageresizer.com/_uploads/photos/f8984d9e/Margarita_Perez_github_2_2_1000x400.png" alt="cover" />
+<img width="100%" height = "400px" src="/https://1drv.ms/u/s!Al1eH0Q_Sz_WgglDnYxQ9e_fGhQv?e=ZueMDK" alt="cover" />
 </div>
 <br /> 
 <br /> 
@@ -46,7 +46,10 @@
 <a href="https://twitter.com/muhammad0078692"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/muhammad0078692"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Muhammad00786"><img alt="GITHUB" title="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://www.blogisphere.com' target="_blank"><img alt='BLOGISPHERE' src='https://img.shields.io/badge/MY_Blog-100000?style=for-the-badge&logo=BLOGISPHERE&logoColor=002FFF&labelColor=3432A9&color=FF1E00'/></a>
+<a href='https://www.blogisphere.com' target="_blank"><img alt='BLOGISPHERE' src='https://img.shields.io/badge/MY_Blog-100000?style=for-the-badge&logo=BLOGISPHERE&logoColor=002FFF&labelColor=3432A9&color=FF1E00'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/muhammadnoorani0786/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
+ 
 
 
 
