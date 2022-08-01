@@ -1,11 +1,8 @@
-<div align="center">
-<img width="100%" height = "400px" src="https://user-images.githubusercontent.com/91708316/164894197-c476540c-6e6e-4b7e-9b39-0832d45d6d90.png" alt="banner" />
- 
-</div>
-<br /> 
-<br /> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=9000&color=F7F7F7&lines=Hey!+Welcome+Developers)](https://git.io/typing-svg)
+<br /> 
+<br /> 
+<div align="center">
+<h2> Hey Everyone! Welcome Developers👋 </h2>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Muhammad00786.https://github.com/Muhammad00786)
 
@@ -30,7 +27,7 @@
 
 
 
-- 💬 Talk to me about Java, C/C++, Freelancing Opportunites, Open Source , Data Structures and Algorithms, DevOps 
+- 💬 Talk to me about Java, C/C++, Open Source, Data Structures and Algorithms, DevOps, Collaborations and Networking 
 <div align="center">
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/https://github.com/Muhammad00786?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a> &nbsp;&nbsp;
