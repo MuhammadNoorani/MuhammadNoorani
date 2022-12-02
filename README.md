@@ -9,7 +9,9 @@ I'm a full-stack developer and content creator exploring and learning my version
 
 Going to built all coding projects from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-All my content is built the same manner, from ideas to planning, all the way to finalizing the content. I publish all my content on my Blog, Twitter and Linkedin.
+All my content is built the same manner, from ideas to planning, all the way to finalizing the content.
+  
+I publish all my content on my Blog, Twitter and Linkedin.
 
 ### 🧰 Languages and Tools
 
