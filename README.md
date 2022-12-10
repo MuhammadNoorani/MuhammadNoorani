@@ -5,18 +5,17 @@
 
 **`Tech Explorer (Developer/OpenSource Contributor/Content Creator)`**
 
-I'm a full-stack developer and content creator exploring and learning my version of the tech world, one step at a time.
+I'm learning full-stack development and am a content creator exploring and learning my version of the tech world, one step at a time.
 
-Going to built all coding projects from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am Going to build all coding projects from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 All my content is built the same manner, from ideas to planning, all the way to finalizing the content.
   
 I publish all my content on my Blog, Twitter and Linkedin.
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools (Learning and Exploring - At Present)
 
 <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -25,17 +24,18 @@ I publish all my content on my Blog, Twitter and Linkedin.
 <img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="center" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br />
 
 <h1>Technical Skills 🛠</h1>
 <p align="center">
   
- I have learnt all languages C, C++, PYTHON, JAVA.
+ I have learnt many languages C, C++, PYTHON, JAVA and exploring others.
+  
+ I am learning and exploring Full-Stack Web Development at this moment.
 
- I am learning and exploring Web Development and Flutter and have knowledge of HTML5, CSS3 AND JS, Flutter.
-
- I have worked with Git workflow and contributed to some projects in Hacktoberfest and got selected for hacktoberfest.
+ I have worked with Git workflow and did some very basic contributions about 30 to understand git commit and git workflow in Hacktoberfest and got selected for hacktoberfest.
 </p>
 
 <hr>  
@@ -58,7 +58,7 @@ I publish all my content on my Blog, Twitter and Linkedin.
 |          Repo Name           | Description                                            |
 | :--------------------------: | :----------------------------------------------------- |
 | [Web Development Projects]() | All Web Development Projects that I am working on.     |
-|     [Flutter Projects]()     | All flutter Projects that I am or will be working soon |
+
 
  <h1 align="center">Let's Get Connected</h1>
 
@@ -76,6 +76,11 @@ I publish all my content on my Blog, Twitter and Linkedin.
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+<!-- Threads and Posts-LIST:START -->
+
+<!-- Threads and Posts-LIST:END -->  
+  
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
