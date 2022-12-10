@@ -3,7 +3,7 @@
 # Muhammad Noorani
 
 
-**`Tech Explorer (Developer/OpenSource Contributor/Content Creator)`**
+**`Tech Traverser (Learner/Developer/OpenSource Contributor/Content Creator)`**
 
 I'm learning full-stack development and am a content creator exploring and learning my version of the tech world, one step at a time.
 
