@@ -1,9 +1,9 @@
-
-
+<div align="center">
 
 <h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/muhammadnoorani/" target="_blank"> Muhammad Noorani </a></h1>
-<img width="38%" align="right"   src="https://github.com/MuhammadNoorani/MuhammadNoorani/blob/main/Muhammad%20Noorani%20favicon1-modified.png" >
 
+
+  
 **`Tech Traverser (Learner/Web Developer/ML Enthusiast/OpenSource Contributor/Content Creator)`**
 
 
