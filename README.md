@@ -1,34 +1,27 @@
 
-<div align="center">
-
-# Muhammad Noorani
 
 
-**`Tech Traverser (Learner/Developer/OpenSource Contributor/Content Creator)`**
+<h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/muhammadnoorani/" target="_blank"> Muhammad Noorani </a></h1>
+<img width="38%" align="right"   src="https://github.com/MuhammadNoorani/MuhammadNoorani/blob/main/Muhammad%20Noorani%20favicon1-modified.png" >
 
-I'm learning full-stack development and am a content creator exploring and learning my version of the tech world, one step at a time.
+**`Tech Traverser (Learner/Web Developer/ML Enthusiast/OpenSource Contributor/Content Creator)`**
 
-I am Going to build all coding projects from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-All my content is built the same manner, from ideas to planning, all the way to finalizing the content.
+
   
-I publish all my content on my Blog, Twitter and Linkedin.
-
-### 🧰 Languages and Tools (Learning and Exploring - At Present)
-
-<img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="center" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+Hi, I am Muhammad Noorani. I am traversing through the tech world and exploring and learning so many new things, one step at a time. At present I'm learning full stack Web Development, learning and building in public.
+<br />
+I Will build all coding projects from the ground up, from planning to designing and all the way to solving real-life problems with code. 
+<br />
+At this moment I am more inclined towards Full Stack Web Development, Machine Learning and 
+Data Science. 
+<br />
+I will explore DevOps,Cloud in Full Stack Web Development I am open to opportunities.
+  
+  
 
 <br />
-
+<div align="center">
 <h1>Technical Skills 🛠</h1>
 <p align="center">
   
