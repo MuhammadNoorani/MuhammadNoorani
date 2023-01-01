@@ -1,3 +1,5 @@
+
+![Banner](https://github.com/MuhammadNoorani/MuhammadNoorani/blob/main/BANNER.png)
 <div align="center">
 
 # Muhammad Noorani
