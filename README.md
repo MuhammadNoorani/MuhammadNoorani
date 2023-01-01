@@ -1,5 +1,4 @@
 
-![Banner](https://github.com/MuhammadNoorani/MuhammadNoorani/blob/main/BANNER.png)
 <div align="center">
 
 # Muhammad Noorani
@@ -59,7 +58,7 @@ I publish all my content on my Blog, Twitter and Linkedin.
 
 |          Repo Name           | Description                                            |
 | :--------------------------: | :----------------------------------------------------- |
-| [Web Development Projects]() | All Web Development Projects that I am working on.     |
+| [Web Development Projects]() |  Web Development Projects.     |
 
 
  <h1 align="center">Let's Get Connected</h1>
@@ -69,7 +68,7 @@ I publish all my content on my Blog, Twitter and Linkedin.
 <a  href="https://www.linkedin.com/in/muhammadnoorani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/MuhammadN_twts" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="https://github.com/MuhammadNoorani"><img alt="GITHUB" title="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://blogisphere.com' target="_blank"><img alt='BLOGISPHERE' src='https://img.shields.io/badge/MY_Blog-100000?style=for-the-badge&logo=BLOGISPHERE&logoColor=002FFF&labelColor=3432A9&color=FF1E00'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://blog.muhammadnoorani.com' target="_blank"><img alt='Blog' src='https://img.shields.io/badge/MY_Blog-100000?style=for-the-badge&logo=Blog&logoColor=002FFF&labelColor=3432A9&color=5E17EB'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
 <div align="center">
