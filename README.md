@@ -22,14 +22,14 @@ I will explore DevOps,Cloud in Full Stack Web Development I am open to opportuni
 
 <br />
 <div align="center">
-<h1>Technical Skills 🛠</h1>
+<h1>Technical Skills and About me🛠</h1>
 <p align="center">
   
- I have learnt many languages C, C++, PYTHON, JAVA and exploring others.
-  
- I am learning and exploring Full-Stack Web Development at this moment.
-
- I have worked with Git workflow and did some very basic contributions about 30 to understand git commit and git workflow in Hacktoberfest and got selected for hacktoberfest.
+ - I have learnt many languages, the core part of : C, C++, PYTHON, JAVA.
+ - I am into Full Stack Web Development at present but not have not limited myself to fields in tech. 
+ - Will soon be serioursly contributing(adding value) to Open Source Projects and am open to opportunities, feel free to contact me!
+ - I learn, build and document my journey, have a social media presence where I share valuable content along my journey. 
+ - Even I am a blogger, who writes technical blogs and share my knowledge with everyone in the simplest manner(As I love to simplify things) "if I understood I can explain it to anyone".
 </p>
 
 <hr>  
