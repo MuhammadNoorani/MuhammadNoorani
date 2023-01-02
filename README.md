@@ -26,7 +26,8 @@ I will explore DevOps,Cloud in Full Stack Web Development I am open to opportuni
 <p align="center">
   
  - I have learnt many languages, the core part of : C, C++, PYTHON, JAVA.
- - I am into Full Stack Web Development at present but not have not limited myself to fields in tech. 
+ - I am into Full Stack Web Development at present but not have limited myself to fields in tech. 
+ - I am also learning Data Structures and Algorithms, improving my problem solving skills, learning Core Computer Science fundamentals. 
  - Will soon be serioursly contributing(adding value) to Open Source Projects and am open to opportunities, feel free to contact me!
  - I learn, build and document my journey, have a social media presence where I share valuable content along my journey. 
  - Even I am a blogger, who writes technical blogs and share my knowledge with everyone in the simplest manner(As I love to simplify things) "if I understood I can explain it to anyone".
