@@ -4,7 +4,7 @@
 
 
   
-**`Tech Traverser (Learner/Web Developer/ML Enthusiast/OpenSource Contributor/Technical Writer/Documenting my tech journey)`**
+**`Tech Traverser (Learner/Web Development/ML Enthusiast/OpenSource Contributor/Technical Writer/Documenting my tech journey/Public-Speaker)`**
 
 
 
