@@ -44,6 +44,32 @@
 ---
 ## 📋 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙱𝚕𝚘𝚐𝚜
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.muhammadnoorani.com//learn-by-doing-a-comprehensive-guide-on-my-hackathon-and-blogging-experience" title="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683687601873/3dc1c512-2bf0-4dad-baf5-893d67c49b6f.png" alt="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience" width="250px" align="left" /></a>
+<a href="https://blog.muhammadnoorani.com//learn-by-doing-a-comprehensive-guide-on-my-hackathon-and-blogging-experience" title="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience"><strong>Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience</strong></a>
+<br/> 🚀💬 Introduction
+Participating in the Hackathon by @WeMakeDevs x Napptive proved to be an incredible opportunity for me to explore the fascinating world of DevOps, the Open Application Model (OAM), and web development. The tracks in which I took par... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.muhammadnoorani.com//scaling-flask-task-management-web-app-with-open-application-modeloam-and-napptive-a-case-study" title="Scaling Flask Task Management Web App with Open Application Model(OAM) and Napptive - A Case Study"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681525382796/c2a5a13f-4999-4685-bf70-f8417bac2559.png" alt="Scaling Flask Task Management Web App with Open Application Model(OAM) and Napptive - A Case Study" width="250px" align="left" /></a>
+<a href="https://blog.muhammadnoorani.com//scaling-flask-task-management-web-app-with-open-application-modeloam-and-napptive-a-case-study" title="Scaling Flask Task Management Web App with Open Application Model(OAM) and Napptive - A Case Study"><strong>Scaling Flask Task Management Web App with Open Application Model(OAM) and Napptive - A Case Study</strong></a>
+<br/> Introduction
+The Open Application Model (OAM) is a powerful way to simplify the development and deployment of cloud-native applications, making it easier to manage applications across different cloud platforms. In this blog post, we'll explore the be... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.muhammadnoorani.com//linux-series-bash-programming-operating-systems-part-2" title="Linux Series: Bash Programming & Operating Systems (Part-2)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677698500897/052d9d7d-9d09-4965-8fda-f1658913af5c.png" alt="Linux Series: Bash Programming & Operating Systems (Part-2)" width="250px" align="left" /></a>
+<a href="https://blog.muhammadnoorani.com//linux-series-bash-programming-operating-systems-part-2" title="Linux Series: Bash Programming & Operating Systems (Part-2)"><strong>Linux Series: Bash Programming & Operating Systems (Part-2)</strong></a>
+<br/> Overview
+
+Welcome to part 2 of our Linux Fundamentals series! In this section, we will be exploring Ubuntu, one of the most popular Linux distributions.
+
+Throughout this part, we will be diving into the command line interface, a powerful tool that al... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.muhammadnoorani.com//linux-series-bash-programming-operating-systems-part-1" title="Linux Series: Bash Programming & Operating Systems  (Part - 1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676308932429/c5727e76-a196-4971-a8a7-7a384127097f.png" alt="Linux Series: Bash Programming & Operating Systems  (Part - 1)" width="250px" align="left" /></a>
+<a href="https://blog.muhammadnoorani.com//linux-series-bash-programming-operating-systems-part-1" title="Linux Series: Bash Programming & Operating Systems  (Part - 1)"><strong>Linux Series: Bash Programming & Operating Systems  (Part - 1)</strong></a>
+<br/> Overview
+
+In this guide, I will walk you through the basics of Linux. If you are new to Linux and unsure about its origins and purpose, this blog will provide you with a comprehensive overview.
+
+If you're not sure how to install Linux on your system,... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 ---
 
