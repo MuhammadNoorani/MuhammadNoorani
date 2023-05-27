@@ -27,15 +27,6 @@
 
 </div>
 
----
-
-## 📚 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
 
 ## 🔬 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
@@ -71,6 +62,16 @@ In this guide, I will walk you through the basics of Linux. If you are new to Li
 
 If you're not sure how to install Linux on your system,... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
+---
+
+---
+
+## 📚 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ---
 
 ## 💬 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎
