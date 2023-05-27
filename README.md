@@ -23,7 +23,7 @@
 
 | Repo Number | Repo Name                                                                               | Description                             |
 | ----------- | --------------------------------------------------------------------------------------- | --------------------------------------- |
-| 1           | [Web Development Projects](https://github.com/MuhammadNoorani/Web-Development-Projects) | Collection of web development projects. |
+| 1.           | [Web Development Projects](https://github.com/MuhammadNoorani/Web-Development-Projects) | Collection of web development projects. |
 
 </div>
 
