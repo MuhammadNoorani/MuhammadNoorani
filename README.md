@@ -38,6 +38,11 @@
 ## 📋 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙱𝚕𝚘𝚐𝚜
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.muhammadnoorani.com//mental-health-in-tech-communities-supporting-well-being-and-mental-strength" title="Mental Health in Tech Communities: Supporting Well-being and Mental Strength"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688143957247/61c53da8-2b6a-4808-92fb-214034357894.png" alt="Mental Health in Tech Communities: Supporting Well-being and Mental Strength" width="250px" align="left" /></a>
+<a href="https://blog.muhammadnoorani.com//mental-health-in-tech-communities-supporting-well-being-and-mental-strength" title="Mental Health in Tech Communities: Supporting Well-being and Mental Strength"><strong>Mental Health in Tech Communities: Supporting Well-being and Mental Strength</strong></a>
+<br/> Note: In this blog, we will deep dive into a very crucial topic. Do, give this blog a read. This blog is an eye-opening blog for all the people who run Tech Communities and those who are part of a community.
+All your answers are present in this blog.... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.muhammadnoorani.com//learn-by-doing-a-comprehensive-guide-on-my-hackathon-and-blogging-experience" title="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683687601873/3dc1c512-2bf0-4dad-baf5-893d67c49b6f.png" alt="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience" width="250px" align="left" /></a>
 <a href="https://blog.muhammadnoorani.com//learn-by-doing-a-comprehensive-guide-on-my-hackathon-and-blogging-experience" title="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience"><strong>Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience</strong></a>
 <br/> 🚀💬 Introduction
@@ -55,14 +60,6 @@ The Open Application Model (OAM) is a powerful way to simplify the development a
 Welcome to part 2 of our Linux Fundamentals series! In this section, we will be exploring Ubuntu, one of the most popular Linux distributions.
 
 Throughout this part, we will be diving into the command line interface, a powerful tool that al... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.muhammadnoorani.com//linux-series-bash-programming-operating-systems-part-1" title="Linux Series: Bash Programming & Operating Systems  (Part - 1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676308932429/c5727e76-a196-4971-a8a7-7a384127097f.png" alt="Linux Series: Bash Programming & Operating Systems  (Part - 1)" width="250px" align="left" /></a>
-<a href="https://blog.muhammadnoorani.com//linux-series-bash-programming-operating-systems-part-1" title="Linux Series: Bash Programming & Operating Systems  (Part - 1)"><strong>Linux Series: Bash Programming & Operating Systems  (Part - 1)</strong></a>
-<br/> Overview
-
-In this guide, I will walk you through the basics of Linux. If you are new to Linux and unsure about its origins and purpose, this blog will provide you with a comprehensive overview.
-
-If you're not sure how to install Linux on your system,... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 ---
 
