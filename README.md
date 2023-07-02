@@ -65,7 +65,7 @@ Throughout this part, we will be diving into the command line interface, a power
 
 ---
 
-## 📚 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+<!-- ## 📚 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢-->
 
 <!--START_SECTION:activity-->
 
