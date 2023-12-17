@@ -53,19 +53,6 @@ All your answers are present in this blog.... </p> <br/> <br/>
 <a href="https://blog.muhammadnoorani.com//learn-by-doing-a-comprehensive-guide-on-my-hackathon-and-blogging-experience" title="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience"><strong>Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience</strong></a>
 <br/> 🚀💬 Introduction
 Participating in the Hackathon by @WeMakeDevs x Napptive proved to be an incredible opportunity for me to explore the fascinating world of DevOps, the Open Application Model (OAM), and web development. The tracks in which I took par... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.muhammadnoorani.com//scaling-flask-task-management-web-app-with-open-application-modeloam-and-napptive-a-case-study" title="Scaling Flask Task Management Web App with Open Application Model(OAM) and Napptive - A Case Study"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681525382796/c2a5a13f-4999-4685-bf70-f8417bac2559.png" alt="Scaling Flask Task Management Web App with Open Application Model(OAM) and Napptive - A Case Study" width="250px" align="left" /></a>
-<a href="https://blog.muhammadnoorani.com//scaling-flask-task-management-web-app-with-open-application-modeloam-and-napptive-a-case-study" title="Scaling Flask Task Management Web App with Open Application Model(OAM) and Napptive - A Case Study"><strong>Scaling Flask Task Management Web App with Open Application Model(OAM) and Napptive - A Case Study</strong></a>
-<br/> Introduction
-The Open Application Model (OAM) is a powerful way to simplify the development and deployment of cloud-native applications, making it easier to manage applications across different cloud platforms. In this blog post, we'll explore the be... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.muhammadnoorani.com//linux-series-bash-programming-operating-systems-part-2" title="Linux Series: Bash Programming & Operating Systems (Part-2)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677698500897/052d9d7d-9d09-4965-8fda-f1658913af5c.png" alt="Linux Series: Bash Programming & Operating Systems (Part-2)" width="250px" align="left" /></a>
-<a href="https://blog.muhammadnoorani.com//linux-series-bash-programming-operating-systems-part-2" title="Linux Series: Bash Programming & Operating Systems (Part-2)"><strong>Linux Series: Bash Programming & Operating Systems (Part-2)</strong></a>
-<br/> Overview
-
-Welcome to part 2 of our Linux Fundamentals series! In this section, we will be exploring Ubuntu, one of the most popular Linux distributions.
-
-Throughout this part, we will be diving into the command line interface, a powerful tool that al... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 ---
 
