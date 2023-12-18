@@ -46,11 +46,13 @@
 <p align="left">
 <a href="https://blog.muhammadnoorani.com//mental-health-in-tech-communities-supporting-well-being-and-mental-strength" title="Mental Health in Tech Communities: Supporting Well-being and Mental Strength"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688143957247/61c53da8-2b6a-4808-92fb-214034357894.png" alt="Mental Health in Tech Communities: Supporting Well-being and Mental Strength" width="250px" align="left" /></a>
 <a href="https://blog.muhammadnoorani.com//mental-health-in-tech-communities-supporting-well-being-and-mental-strength" title="Mental Health in Tech Communities: Supporting Well-being and Mental Strength"><strong>Mental Health in Tech Communities: Supporting Well-being and Mental Strength</strong></a>
+<div><strong>30 June 2023</strong></div>
 <br/> Note: In this blog, we will deep dive into a very crucial topic. Do, give this blog a read. This blog is an eye-opening blog for all the people who run Tech Communities and those who are part of a community.
 All your answers are present in this blog.... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.muhammadnoorani.com//learn-by-doing-a-comprehensive-guide-on-my-hackathon-and-blogging-experience" title="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683687601873/3dc1c512-2bf0-4dad-baf5-893d67c49b6f.png" alt="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience" width="250px" align="left" /></a>
 <a href="https://blog.muhammadnoorani.com//learn-by-doing-a-comprehensive-guide-on-my-hackathon-and-blogging-experience" title="Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience"><strong>Learn by Doing: A Comprehensive Guide on My Hackathon and Blogging Experience</strong></a>
+<div><strong>10 May 2023</strong> | <strong>Updated: 10 May 2023</strong></div>
 <br/> 🚀💬 Introduction
 Participating in the Hackathon by @WeMakeDevs x Napptive proved to be an incredible opportunity for me to explore the fascinating world of DevOps, the Open Application Model (OAM), and web development. The tracks in which I took par... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
