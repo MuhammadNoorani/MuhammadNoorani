@@ -12,7 +12,7 @@
 ## 💻 𝙼𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚊𝚗𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 - 𝙴𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚑𝚎𝚛𝚎 - [`𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜`](https://github.com/MuhammadNoorani/Full-Stack-Journey)
-- 𝙴𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 - [`𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜`](https://github.com/muhammadnoorani/projects)
+- 𝙴𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 - [`𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜`](https://github.com/muhammadnoorani/Projects)
 
 
 ## 📚 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝙰𝚛𝚝𝚒𝚌𝚕𝚎𝚜
